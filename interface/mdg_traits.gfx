@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_trait_test"
+		texturefile = "gfx/interface/traits/trait_admiral_destroyer_leader_test.dds"
+	}
+}

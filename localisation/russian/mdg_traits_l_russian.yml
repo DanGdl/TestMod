@@ -1,0 +1,4 @@
+﻿l_russian:
+ trait_test:0 "Тест"
+ trait_test_desc:0 "§LОписание черты Тест§!"
+ TEST_TRAIT_TRIGGER_TT:0 "Требования для черты Тест"

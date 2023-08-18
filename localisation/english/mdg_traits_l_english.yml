@@ -1,0 +1,4 @@
+﻿l_english:
+ mdg_trait_mosquito:0 "Test"
+ mdg_trait_mosquito_desc:0 "§LTest trait description§!"
+ TEST_TRAIT_TRIGGER_TT:0 "Test trait requirement"
